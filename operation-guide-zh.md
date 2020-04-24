@@ -1,4 +1,7 @@
-# aelf DAO投资项目
+# aelf DAO投资项目操作指南
+
+英文版教程链接：[operation-guide](https://github.com/DAO-Testnet/Grants/blob/master/operation-guide.md)
+
 为提高aelf主网生态的活跃度，鼓励用户参与aelf生态的建设，aelf DAO将为社区用户提供投资项目、赏金项目两种参与方式：
 
 * [投资项目](https://github.com/DAO-Testnet/Grants)：如果社区用户有好的开发项目为aelf做贡献，可申请投资项目，aelf DAO管理委员会将提供资金和资源帮助，加速项目开发进程；
@@ -27,7 +30,7 @@ aelf DAO管理委员会将每年支持投资15个项目，同时允许aelf DAO�
 
 ![图片](https://uploader.shimo.im/f/jliutvw9yfYUxoWK.png!thumbnail)
 
-注：VOTE Token公投提案是社区成员对项目的预审核，是非必要步骤（该步骤操作指南可在该文档的【项目预审核】中查看）；
+注：VOTE Token公投提案是社区成员对项目的预审核，是非必要步骤（该步骤操作指南可在【项目预审核】中查看）；
 
 以下步骤不包括非aelf DAO生态的公投提案。
 
@@ -104,18 +107,18 @@ Propose文档后，开发者即进入以下页面，点击“Create pull request
 
 步骤2：复制commit ID
 
-### 步骤2：审核
+### 步骤2：审核项目
 发起pr和提案后，aelf DAO管理委员会在GitHub和浏览器上收到请求；
 
 2.1 链上审核-提案投票：aelf DAO组织（aelf DAO管理委员会和生产节点）首先在浏览器中对该提案进行两轮投票（同意/反对/弃权）：
 
-（1）第一轮投票：aelf DAO组织（aelf DAO管理委员会和生产节点）选择项目，对该提案投票（同意/反对/弃权）；
+（1）第一轮投票：aelf DAO组织（aelf DAO管理委员会）选择项目，对该提案投票（同意/反对/弃权）；
 
 （2）申请第二个提案：第一轮投票通过后，需开发者执行提案后再申请同样内容议会模型（Parliament）提案；
 
 申请提案的数据：
 
-  * proposal Mode：Parliament
+  * Proposal Mode：Parliament
   * Organization：生产节点组织
   * Contract Address：aelf DAO合约
   * Method Name：ProposeProjectToParliament
@@ -158,7 +161,7 @@ Propose文档后，开发者即进入以下页面，点击“Create pull request
 
 图3.3-开发者申请提案
 
-  * proposal Mode：Association
+  * Proposal Mode：Association
   * Organization：aelf DAO组织
   * Contract Address：DAO合约
   * Method Name：ProposeDeliver
@@ -205,7 +208,7 @@ Propose文档后，开发者即进入以下页面，点击“Create pull request
 
 图-aelf DAO管理委员会申请提案
 
-* proposal Mode：Referendum
+* Proposal Mode：Referendum
 * Organization：VOTE Token公投组织
 * Contract Address：aelf DAO合约
 * Method Name：项目预审核
@@ -312,7 +315,7 @@ Propose文档后，开发者即进入以下页面，点击“Create pull request
 ```
 * **步骤3** - URL：输入与修改组织相关的URL（选填）；
 * **步骤4** - 到期时间：根据情况设定合适的时间，需保证组织成员在到期前有足够的时间去投票。
-###       2.投票和执行
+### 2.投票和执行
 申请提案后，可在提案公示页面查看该提案信息，原有组织成员投票通过、申请人执行提案后，该修改的组织数据才能生效。
 
 
@@ -328,9 +331,9 @@ aelf DAO Testnet: [https://github.com/DAO-Testnet](https://github.com/DAO-Testne
 1. GitHub“投资项目”仓库：[https://github.com/DAO-Testnet/Grants](https://github.com/DAO-Testnet/Grants)
 2. GitHub“赏金项目”仓库：[https://github.com/DAO-Testnet/Bounties](https://github.com/DAO-Testnet/Bounties)
 3. GitHub”DAO文档“仓库：[https://github.com/DAO-Testnet/Docs](https://github.com/DAO-Testnet/Docs)
-
 ### Telegram社群
 aelf全新的去中心化自治社区：saelf governed community Telegram社群
 
 通过saelf governed community Telegram社群，用户可以更便捷、更及时深度参与到aelf DAO的管理制度建立与发展事项当中，同时根据其参与及贡献程度，可获得相应权益，共同分享aelf的发展成果。社群成员可在群内参与aelf DAO管理制度草案的讨论与决策，并有资格申请加入aelf DAO管理委员会。saelf governed community Telegram社群采用官方邀请加入的方式，详细规则请见：[加入saelf governed community Telegram社群](https://mp.weixin.qq.com/s/kCuMGk2IPiQQHeF9w_YSFQ)
+
 
