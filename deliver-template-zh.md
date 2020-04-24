@@ -1,5 +1,19 @@
 # 开发交付文档模板
 
+
+投资项目：
+
+英文模板可参考：[deliver-template](https://github.com/DAO-Testnet/Grants/blob/master/deliver-template.md)
+
+
+赏金项目：
+
+英文模板可参考：[deliver-template](https://github.com/DAO-Testnet/Bounties/blob/master/deliver-template.md)
+
+
+---
+
+
 为提高aelf主网生态的活跃度，鼓励用户参与aelf生态的建设，aelf DAO将为社区用户提供投资项目、赏金项目两种参与方式：
 
 * [投资项目](https://github.com/DAO-Testnet/Grants)：如果社区用户有好的开发项目为aelf做贡献，可申请投资项目，aelf DAO管理委员会将提供资金和资源帮助，加速项目开发进程；
@@ -11,9 +25,8 @@
 
 [注] 与该文档相关的详细操作步骤可参考：
 
-* 投资项目开发者操作指南：[operation-guide-zh](https://github.com/DAO-Testnet/Grants/blob/master/operation-guide-zh.md)
-* 赏金项目开发者操作指南：[operation-guide-zh](https://github.com/DAO-Testnet/Bounties/blob/master/operation-guide-zh.md)
-
+* 投资项目开发者操作指南：[operation-guide](https://github.com/DAO-Testnet/Grants/blob/master/operation-guide.md)
+* 赏金项目开发者操作指南：[operation-guide](https://github.com/DAO-Testnet/Bounties/blob/master/operation-guide.md)
 ## 1. 交付文档内容
 * 当前开发阶段；
 * 预计开发时间；
@@ -34,7 +47,6 @@
   * 测试报告：描述项目的开发完成情况、建设质量、网络环境、软件运行情况等；
   * 使用说明：提供详细的软件使用说明，以方便社区用户使用；
   * 其它可补充的文档；
-
 * 其它信息：
 
 项目开发如有变动或其他说明，可在此注明。
@@ -49,7 +61,6 @@
   7. 外购的操作系统、数据库、中间件、应用软件和开发工具符合知识产权相关政策法规的要求；
   8. 应用软件部署，状态正常；
   9. 项目申请计划规定的其他验收条件。
-
 ## 3. 文档交付地址
 基本流程：提pr -> 申请提案 -> aelf DAO管理委员会投票 -> Merge pr
 
@@ -59,4 +70,7 @@
 
 [注] 如果项目需分阶段开发完成，或多个团队共同完成，需创建以该项目名称命名的文件夹，例如“投资项目A”，并将文档提交至文件夹内。
 
+---
 如果开发过程中有违约现象，aelf DAO管理委员会将保持最终解释权。
+
+
