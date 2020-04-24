@@ -245,8 +245,9 @@ Figure 1-aelf DAO Management Committee apply for proposal
 * **Creator: Production Nodes**
 * **Organization Actual Threshold Modification Authority: Whitelist Users**
 * **Organization:**
+
 | Model   | Parliament Contract Model   | 
-|:----|:----|
+| --- | --- |
 | Organization Members   | Production Nodes   | 
 | Proposal Whitelist   | All users   | 
 | Threshold for the proposal adoption    | Agree ≥ 50%, Disagree ≤ 50%, Abstain ≤ 50%，Total votes ≥ 50%   | 
@@ -265,8 +266,9 @@ Figure: Create Organization
 * **Creator: Community Users**
 * **Organization Actual Threshold Modification Authority: Whitelist Users**
 * **Organization:**
+
 | Model   | Referendum Contract Model   | 
-|:----|:----|
+| --- | --- |
 | VOTE Token Type   | VOTE Token (After voting, these tokens will be locked and can not be redeemed until the proposal expires or is released)   | 
 | Organization Members   | All users who have VOTE Tokens   | 
 | Proposal Whitelist   | The users’ address that you entered when you created the organization. If the applicant is not in the whitelist, you need to re-create an organization, or contact users in the white list to modify the organization whitelist and threshold.   | 
